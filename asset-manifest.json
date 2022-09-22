@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React_MovieRank/static/css/main.2687e23a.css",
-    "main.js": "/React_MovieRank/static/js/main.8c80e472.js",
+    "main.js": "/React_MovieRank/static/js/main.b32bc6fc.js",
     "index.html": "/React_MovieRank/index.html",
     "main.2687e23a.css.map": "/React_MovieRank/static/css/main.2687e23a.css.map",
-    "main.8c80e472.js.map": "/React_MovieRank/static/js/main.8c80e472.js.map"
+    "main.b32bc6fc.js.map": "/React_MovieRank/static/js/main.b32bc6fc.js.map"
   },
   "entrypoints": [
     "static/css/main.2687e23a.css",
-    "static/js/main.8c80e472.js"
+    "static/js/main.b32bc6fc.js"
   ]
 }
