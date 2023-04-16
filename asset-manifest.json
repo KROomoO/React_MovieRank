@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.2687e23a.css",
-    "main.js": "/static/js/main.aadd11af.js",
-    "index.html": "/index.html",
-    "main.2687e23a.css.map": "/static/css/main.2687e23a.css.map",
-    "main.aadd11af.js.map": "/static/js/main.aadd11af.js.map"
+    "main.css": "/React_MovieRank/static/css/main.2687e23a.css",
+    "main.js": "/React_MovieRank/static/js/main.77932946.js",
+    "index.html": "/React_MovieRank/index.html",
+    "main.2687e23a.css.map": "/React_MovieRank/static/css/main.2687e23a.css.map",
+    "main.77932946.js.map": "/React_MovieRank/static/js/main.77932946.js.map"
   },
   "entrypoints": [
     "static/css/main.2687e23a.css",
-    "static/js/main.aadd11af.js"
+    "static/js/main.77932946.js"
   ]
 }
