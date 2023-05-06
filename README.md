@@ -14,7 +14,7 @@
 ## 📌 Skill
 - React.js
   - react-router-dom
-  - Axios
+- Axios
   
 ## 외부 API
 - [YTS.mx](https://yts.mx/api)
